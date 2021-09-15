@@ -1,2 +1,2 @@
 # stepik-auto-test-course
-1okokok
+Учебный репозиторий по курсу Stpik Auto Test
